@@ -18,7 +18,7 @@ export const jobs: Job[] = [
     title: "Admin Vận Hành (OPS)",
     department: "Vận Hành",
     location: "TP. Hồ Chí Minh",
-    salary: "10 - 14.2 triệu",
+    salary: "Lương cạnh tranh",
     type: "Full-time",
     summary:
       "Hỗ trợ xử lý đơn hàng, gán thợ thủ công khi hệ thống timeout, giám sát chất lượng dịch vụ lắp đặt.",
