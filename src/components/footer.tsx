@@ -30,19 +30,19 @@ export function Footer() {
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-brand-teal shrink-0" />
                 <a
-                  href="mailto:hr@lapdat247.vn"
+                  href="mailto:tuyendung@lapdat247.vn"
                   className="hover:text-brand-teal transition-colors"
                 >
-                  hr@lapdat247.vn
+                  tuyendung@lapdat247.vn
                 </a>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-brand-teal shrink-0" />
                 <a
-                  href="tel:0909247247"
+                  href="tel:0906894816"
                   className="hover:text-brand-teal transition-colors"
                 >
-                  0909 247 247
+                  0906 894 816
                 </a>
               </li>
               <li className="flex items-start gap-2">
